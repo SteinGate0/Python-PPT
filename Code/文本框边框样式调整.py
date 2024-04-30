@@ -14,7 +14,7 @@ tf = text_box.text_frame
 tf.text = "这是一段文本框里面的文字"
 # -------------------------------------- #
 tf.margin_bottom = Cm(0.1) # 下边距
-tf.margin_left = 0 # 下边距
+tf.margin_left = 0 # 坐左距
 tf.vertical_anchor = MSO_ANCHOR.BOTTOM
 tf.word_wrap = True # 框中的文字自动换行
 # -------------------------------------- #
